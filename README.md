@@ -19,21 +19,23 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 | Intel HD Graphics | 🔥 AMD Radeon RX 7900 XTX |
 
 <table border="0" width="100%">
-  <tr>
-    <!-- CỘT BÊN TRÁI -->
-    <td width="50%" align="center" valign="top">
-      <h3>🚀 Giao diện Fake GPU</h3>
-      <img width="618" height="551" alt="image" src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" /> width="100%" alt="Fake GPU">
-      <p><i>Đây là giao diện lúc bạn chạy file gpu.bat để đổi tên card đồ họa sang tên mới.</i></p>
-    </td>
-    
-    <!-- CỘT BÊN PHẢI -->
-    <td width="50%" align="center" valign="top">
-      <h3>🔄 Giao diện Reset GPU</h3>
-      <img width="624" height="585" alt="image" src="https://github.com/user-attachments/assets/5860055f-f882-4bbf-8f44-f6990c2ac73c" /> width="100%" alt="Reset GPU">
-      <p><i>Còn đây là giao diện file reset_gpu.bat giúp bồ khôi phục lại tên gốc ban đầu.</i></p>
-    </td>
-  </tr>
+<tr>
+
+<!-- CỘT BÊN TRÁI -->
+<td width="50%" align="center" valign="top">
+<h3>🚀 Giao diện Fake GPU</h3>
+<img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" width="100%" alt="Fake GPU">
+<p><i>Đây là giao diện lúc bạn chạy file gpu.bat để đổi tên card đồ họa sang tên mới.</i></p>
+</td>
+
+<!-- CỘT BÊN PHẢI -->
+<td width="50%" align="center" valign="top">
+<h3>🔄 Giao diện Reset GPU</h3>
+<img src="https://github.com/user-attachments/assets/5860055f-f882-44bf-8f44-f6990c2ac73c" width="100%" alt="Reset GPU">
+<p><i>Còn đây là giao diện file reset_gpu.bat giúp bồ khôi phục lại tên gốc ban đầu.</i></p>
+</td>
+
+</tr>
 </table>
 
 
