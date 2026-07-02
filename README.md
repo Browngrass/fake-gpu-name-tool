@@ -7,7 +7,7 @@
 
 ---
 
-## 🌍🇺🇸 English🌍
+## 🇺🇸 English
 
 
 ### 📜 Introduction
