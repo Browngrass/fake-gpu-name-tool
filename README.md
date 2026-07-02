@@ -67,7 +67,7 @@ This tool is purely for entertainment purposes to modify the display name; it do
 
 
 ---
-<div align="left">
+
 ## 🇻🇳 Tiếng Việt
 
 ### 📜 Giới Thiệu
