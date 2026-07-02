@@ -42,6 +42,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 </tr>
 </table>
 
+> [!NOTE]
 > **Lưu ý:** Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z.
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
