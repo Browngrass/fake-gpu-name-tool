@@ -4,6 +4,17 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 
 ## 📖 Hướng dẫn sử dụng
 
+<details>
+<summary>📂 <b>Bấm vào đây để xem các file trong thư mục "GPU Name Changer"</b></summary>
+<br>
+
+* 📄 `gpu_name.bat` - File chạy đổi tên.
+* 📄 `reset_gpu_name.bat` - File khôi phục.
+* 📝 `note.txt` - File ghi chú cấu hình.
+
+</details>
+
+
 ```text
 📂 fake-gpu-name-tool
 ├── 📂 GPU Name Changer
