@@ -87,14 +87,14 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 <!-- LEFT COLUMN -->
 <td width="50%" align="center" valign="top">
 <h3>🖥️ Original GPU Name</h3>
-<img src="https://github.com" width="100%" alt="Original GPU">
+<img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14"  width="100%" alt="Original GPU">
 <p><i>Windows Default.</i></p>
 </td>
 
 <!-- RIGHT COLUMN -->
 <td width="50%" align="center" valign="top">
 <h3>🔥 Spoofed GPU Name</h3>
-<img src="https://github.com" width="100%" alt="Spoofed GPU">
+<img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" alt="Spoofed GPU">
 <p><i>After Modification.</i></p>
 </td>
 
@@ -103,6 +103,6 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 
 > **Note:** This tool only changes the surface display string (`FriendlyName`) within the system. It does not alter actual performance and cannot bypass deep inspection software like GPU-Z.
 
-![Windows](https://shields.io)
-![Language](https://shields.io)
-![License](https://shields.io)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
+![Language](https://img.shields.io/badge/Language-Batch%20Script-4EAA25?style=for-the-badge&logo=gnubash)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
