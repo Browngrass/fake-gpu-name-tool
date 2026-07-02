@@ -31,7 +31,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 <!-- CỘT BÊN PHẢI -->
 <td width="50%" align="center" valign="top">
 <h3>🔄 Giao diện Reset GPU</h3>
-<img src="https://github.com/user-attachments/assets/5860055f-f882-44bf-8f44-f6990c2ac73c" width="100%" alt="Reset GPU">
+<img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" width="100%" alt="Reset GPU">
 <p><i>Còn đây là giao diện file reset_gpu.bat giúp bồ khôi phục lại tên gốc ban đầu.</i></p>
 </td>
 
