@@ -14,6 +14,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 5. Nếu muốn quay về tên cũ, chỉ cần chạy `reset_gpu.bat` và nhập lại Hardware ID.
 
 > **Lưu ý:** Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z. Có thể bị reset nếu update Windows.
+
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Language](https://img.shields.io/badge/Language-Batch%20Script**-4EAA25?style=for-the-badge&logo=gnubash)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
