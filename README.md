@@ -16,7 +16,8 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 > [!IMPORTANT]
 >  **<div align="center">⚠️TẠI SAO TOOL YÊU CẦU QUYỀN ADMINISTRATOR?⚠️** 
 >
-> <div align="left">Windows quản lý thông tin phần cứng hiển thị bên trong một phân vùng bảo mật của Registry gọi là đường dẫn hệ thống `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum`. 
+> <div align="left">
+> Windows quản lý thông tin phần cứng hiển thị bên trong một phân vùng bảo mật của Registry gọi là đường dẫn hệ thống `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum`. 
 > 
 > Theo cơ chế bảo mật của Microsoft, một tài khoản người dùng bình thường (User) hoàn toàn **không có quyền chỉnh sửa** phân vùng này để tránh làm xáo trộn hệ thống. Do đó, script bắt buộc phải chạy với quyền **Administrator** cao nhất thì mới có thể thêm/sửa hoặc xóa giá trị tên hiển thị (`FriendlyName`) của GPU. 
 
