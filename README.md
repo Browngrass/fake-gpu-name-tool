@@ -105,7 +105,7 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 
 ---
 
-<h1 style="text-align: center; width: 100%; display: block;">📊 So sánh hiển thị Trước và Sau khi Fake</h1>
+<h1 style="text-align: center; width: 100%; display: block;">📊 So sánh hiển thị Trước và Sau khi fake</h1>
 <table border="0" width="100%">
 <tr>
 
@@ -113,14 +113,14 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 <td width="50%" align="center" valign="top">
 <h3>🖥️ Tên ban đầu của GPU</h3>
 <img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" width="100%" alt="Fake GPU">
-<p><i>Mặc định của Windows.</i></p>
+<p><i>TRƯỚC</i></p>
 </td>
 
 <!-- CỘT BÊN PHẢI -->
 <td width="50%" align="center" valign="top">
 <h3>🔥 Tên sau khi fake</h3>
 <img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" width="100%" alt="Reset GPU">
-<p><i> Sau khi thay đổi.</i></p>
+<p><i>SAU</i></p>
 </td>
 
 </tr>
@@ -128,6 +128,7 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 
 > **Lưu ý:** Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z.
 
+<div align="center">
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Language](https://img.shields.io/badge/Language-Batch%20Script-4EAA25?style=for-the-badge&logo=gnubash)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
