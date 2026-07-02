@@ -2,20 +2,28 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 
 ## 📖 Hướng dẫn sử dụng
 1. Tải bộ đôi script về máy.
-2. Chạy `gpu.bat` với quyền Admin.
+2. Chạy `gpu_name.bat` với quyền Admin.
 3. Chọn mục `[1]` để xem hướng dẫn lấy **Hardware ID** của GPU.
 4. Chọn mục `[2]`, dán Hardware ID vào và nhập tên GPU mới mà bạn muốn fake.
-5. Nếu muốn quay về tên cũ, chỉ cần chạy `reset_gpu.bat` và nhập lại Hardware ID.
+5. Nếu muốn quay về tên mặc định, chỉ cần chạy `reset_gpu_name.bat` và nhập lại Hardware ID.
 
 ## 🚀 Tính năng
 - Giao diện CLI có màu sắc trực quan, dễ sử dụng.
-- Giao diện CLI có màu sắc trực quan, dễ sử dụng.
+- Không sợ mất tên khi khởi động lại máy.
 - **gpu_name.bat**: Thay đổi tên hiển thị của GPU thành bất kỳ tên nào bạn muốn.
 - **reset_gpu_name.bat**: Xóa bỏ tên fake, khôi phục lại tên gốc của GPU từ nhà sản xuất.
 
+> [!IMPORTANT]
+> **TẠI SAO TOOL YÊU CẦU QUYỀN ADMINISTRATOR?**
+>
+> Windows quản lý thông tin phần cứng hiển thị bên trong một phân vùng bảo mật của Registry gọi là đường dẫn hệ thống `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum`. 
+> 
+> Theo cơ chế bảo mật của Microsoft, một tài khoản người dùng bình thường (User) hoàn toàn **không có quyền chỉnh sửa** phân vùng này để tránh làm xáo trộn hệ thống. Do đó, script bắt buộc phải chạy với quyền **Administrator** cao nhất thì mới có thể thêm/sửa hoặc xóa giá trị tên hiển thị (`FriendlyName`) của GPU. 
+
+
 | Trước khi Fake (Tên thật) | Sau khi Fake (Tên mới) |
 | :--- | :--- |
-| AMD Radeon RX 5500 XT | 🚀 NVIDIA GeForce RTX 4090 |
+| AMD Radeon RX 5700 XT | 🚀 NVIDIA GeForce RTX 4090 |
 | Intel HD Graphics | 🔥 AMD Radeon RX 7900 XTX |
 
 <table border="0" width="100%">
@@ -23,7 +31,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 
 <!-- CỘT BÊN TRÁI -->
 <td width="50%" align="center" valign="top">
-<h3>🚀 Tên ban đầu</h3>
+<h3>🚀 Tên ban đầu của GPU</h3>
 <img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" width="100%" alt="Fake GPU">
 <p><i>Mặc định của GPU</i></p>
 </td>
