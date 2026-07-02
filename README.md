@@ -26,7 +26,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 | AMD Radeon RX 5700 XT | 🚀 NVIDIA GeForce RTX 4090 |
 | Intel HD Graphics | 🔥 AMD Radeon RX 7900 XTX |
 
-## 📊 So sánh hiển thị Trước và Sau khi Fake
+<h2 align="center">📊 So sánh hiển thị Trước và Sau khi Fake</h2>
 <table border="0" width="100%">
 <tr>
 
