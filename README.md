@@ -1,4 +1,4 @@
-# 🛠️ Fake GPU Name Tool
+# 🛠️ Fake GPU Name Tool | Công cụ thay đổi tên GPU 🛠️ 
 
 <p align="center">
   <a href="#-english">🇺🇸 English</a> • 
@@ -7,7 +7,8 @@
 
 ---
 
-## 🇺🇸 English
+## 🌍🇺🇸 English🌍
+
 
 ### 📜 Introduction
 A lightweight toolkit written in `Batch Script` designed to simplify the process of changing the display name (Friendly Name) of your Graphics Processing Unit (GPU) directly within the Windows system.
