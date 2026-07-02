@@ -10,8 +10,8 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 ## 🚀 Tính năng
 - Giao diện CLI có màu sắc trực quan, dễ sử dụng.
 - Không sợ mất tên khi khởi động lại máy.
-- '**gpu_name.bat**': Thay đổi tên hiển thị của GPU thành bất kỳ tên nào bạn muốn.
-- '**reset_gpu_name.bat**': Xóa bỏ tên fake, khôi phục lại tên gốc của GPU từ nhà sản xuất.
+- 'gpu_name.bat': Thay đổi tên hiển thị của GPU thành bất kỳ tên nào bạn muốn.
+- 'reset_gpu_name.bat': Xóa bỏ tên fake, khôi phục lại tên gốc của GPU từ nhà sản xuất.
 
 > [!IMPORTANT]
 > **TẠI SAO TOOL YÊU CẦU QUYỀN ADMINISTRATOR?**
