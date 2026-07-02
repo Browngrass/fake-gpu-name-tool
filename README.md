@@ -104,7 +104,6 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 
 ---
 
-<div align="center">
 <h1 style="text-align: center; width: 100%; display: block;">📊 So sánh hiển thị Trước và Sau khi Fake</h1>
 <table border="0" width="100%">
 <tr>
