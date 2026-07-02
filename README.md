@@ -1,7 +1,6 @@
 # 🎭 Fake GPU Name Tool
 
-<!-- Nút chọn ngôn ngữ nhanh (Tùy chọn) -->
-<p align="right">
+<p align="center">
   <a href="#-vietnamese">Tiếng Việt</a> •
   <a href="#-english">English</a>
 </p>
