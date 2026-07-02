@@ -1,13 +1,13 @@
-# 🎭 Fake GPU Name Tool
+# Fake GPU Name Tool
 
 <p align="center">
-  <a href="#-english">English</a> •
-  <a href="#-vietnamese">Tiếng Việt</a>
+  <a href="#en-english">English</a> • 
+  <a href="#vi-vietnamese">Tiếng Việt</a>
 </p>
 
 ---
 
-## en English
+## 🇺🇸 EN English
 
 ## 📜 Introduction
 A lightweight toolkit written in `Batch Script` designed to simplify the process of changing the display name (Friendly Name) of your Graphics Processing Unit (GPU) directly within the Windows system.
@@ -73,7 +73,7 @@ This tool is purely for entertainment purposes to modify the display name; it do
 
 ---
 
-## vi Vietnamese
+## 🇻🇳 VI Vietnamese
 
 ## 📜 Giới Thiệu
 Một bộ công cụ nhỏ bằng ``Batch Script`` nhằm đơn giản hóa quá trình thay đổi tên hiển thị (Friendly Name) của Card đồ họa (GPU) trực tiếp trong hệ thống Windows.
