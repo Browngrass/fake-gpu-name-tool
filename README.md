@@ -21,12 +21,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 > Theo cơ chế bảo mật của Microsoft, một tài khoản người dùng bình thường (User) hoàn toàn **không có quyền chỉnh sửa** phân vùng này để tránh làm xáo trộn hệ thống. Do đó, script bắt buộc phải chạy với quyền **Administrator** cao nhất thì mới có thể thêm/sửa hoặc xóa giá trị tên hiển thị (`FriendlyName`) của GPU. 
 
 
-| Trước khi Fake (Tên thật) | Sau khi Fake (Tên mới) |
-| :--- | :--- |
-| AMD Radeon RX 5700 XT | 🚀 NVIDIA GeForce RTX 4090 |
-| Intel HD Graphics | 🔥 AMD Radeon RX 7900 XTX |
-
-<h1 style="text-align: center; width: 100%; display: block;">📊 So sánh hiển thị Trước và Sau khi Fake</h1>
+<h1 style="text-align: center; width: 100%; display: block;"># 📊 So sánh hiển thị Trước và Sau khi Fake</h1>
 <table border="0" width="100%">
 <tr>
 
@@ -47,8 +42,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 </tr>
 </table>
 
-> [!TIP]
-> Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z và có thể bị reset nếu update Windows.
+> **Lưu ý:** Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z.
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Language](https://img.shields.io/badge/Language-Batch%20Script**-4EAA25?style=for-the-badge&logo=gnubash)
