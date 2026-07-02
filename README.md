@@ -65,7 +65,7 @@ This tool is purely for entertainment purposes to modify the display name; it do
 
 > **Note:** This tool only changes the surface display string (`FriendlyName`) within the system. It does not alter actual performance and cannot bypass deep inspection software like GPU-Z.
 
-
+<div align="left">
 ---
 
 ## 🇻🇳 Tiếng Việt
