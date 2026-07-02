@@ -1,5 +1,4 @@
-<div align="center">
-## 🛠️ Fake GPU Name Tool | Công cụ thay đổi tên GPU 🛠️ 
+# 🛠️ Fake GPU Name Tool | Công cụ thay đổi tên GPU 🛠️ 
 
 <p align="center">
   <a href="#-english">🇺🇸 English</a> • 
