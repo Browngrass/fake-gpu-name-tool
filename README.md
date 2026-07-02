@@ -21,7 +21,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 > Theo cơ chế bảo mật của Microsoft, một tài khoản người dùng bình thường (User) hoàn toàn **không có quyền chỉnh sửa** phân vùng này để tránh làm xáo trộn hệ thống. Do đó, script bắt buộc phải chạy với quyền **Administrator** cao nhất thì mới có thể thêm/sửa hoặc xóa giá trị tên hiển thị (`FriendlyName`) của GPU. 
 
 
-<h1 style="text-align: center; width: 100%; display: block;">            📊 So sánh hiển thị Trước và Sau khi Fake</h1>
+<h1 style="text-align: center; width: 100%; display: block;">                     📊 So sánh hiển thị Trước và Sau khi Fake</h1>
 <table border="0" width="100%">
 <tr>
 
