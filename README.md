@@ -129,6 +129,7 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 > **Lưu ý:** Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z.
 
 <div align="center">
+
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Language](https://img.shields.io/badge/Language-Batch%20Script-4EAA25?style=for-the-badge&logo=gnubash)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
