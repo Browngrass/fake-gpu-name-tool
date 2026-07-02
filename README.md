@@ -26,6 +26,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 | AMD Radeon RX 5700 XT | 🚀 NVIDIA GeForce RTX 4090 |
 | Intel HD Graphics | 🔥 AMD Radeon RX 7900 XTX |
 
+## 📊 So sánh hiển thị Trước và Sau khi Fake
 <table border="0" width="100%">
 <tr>
 
@@ -46,6 +47,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 </tr>
 </table>
 
+> [!TIP]
 
 
 > **Lưu ý:** Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z và có thể bị reset nếu update Windows.
