@@ -43,7 +43,7 @@ This tool is purely for entertainment purposes to modify the display name; it do
 > According to Microsoft's security mechanisms, a standard user account (User) has absolutely **no permission to edit** this partition to prevent system disruption. Therefore, the script must be run with the highest **Administrator** privileges to add, modify, or delete the display name (`FriendlyName`) value of the GPU. 
 
 
-<div align="center"> <h1 style="text-align: center; width: 100%; display: block;">📊 Before and After Spoofing Comparison</h1>
+<div align="center"> 📊 Before and After Spoofing Comparison</h1>
 <table border="0" width="100%">
 <tr>
 
