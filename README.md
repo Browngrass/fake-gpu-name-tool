@@ -18,8 +18,24 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 | AMD Radeon RX 5500 XT | 🚀 NVIDIA GeForce RTX 4090 |
 | Intel HD Graphics | 🔥 AMD Radeon RX 7900 XTX |
 
-<img width="618" height="551" alt="image" src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" />
-<img width="624" height="585" alt="image" src="https://github.com/user-attachments/assets/5860055f-f882-4bbf-8f44-f6990c2ac73c" />
+<table border="0" width="100%">
+  <tr>
+    <!-- CỘT BÊN TRÁI -->
+    <td width="50%" align="center" valign="top">
+      <h3>🚀 Giao diện Fake GPU</h3>
+      <img width="618" height="551" alt="image" src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" /> width="100%" alt="Fake GPU">
+      <p><i>Đây là giao diện lúc bạn chạy file gpu.bat để đổi tên card đồ họa sang tên mới.</i></p>
+    </td>
+    
+    <!-- CỘT BÊN PHẢI -->
+    <td width="50%" align="center" valign="top">
+      <h3>🔄 Giao diện Reset GPU</h3>
+      <img width="624" height="585" alt="image" src="https://github.com/user-attachments/assets/5860055f-f882-4bbf-8f44-f6990c2ac73c" /> width="100%" alt="Reset GPU">
+      <p><i>Còn đây là giao diện file reset_gpu.bat giúp bồ khôi phục lại tên gốc ban đầu.</i></p>
+    </td>
+  </tr>
+</table>
+
 
 
 > **Lưu ý:** Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z và có thể bị reset nếu update Windows.
