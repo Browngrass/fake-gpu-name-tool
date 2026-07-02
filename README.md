@@ -41,6 +41,31 @@ This tool is purely for entertainment purposes to modify the display name; it do
 > 
 > According to Microsoft's security mechanisms, a standard user account (User) has absolutely **no permission to edit** this partition to prevent system disruption. Therefore, the script must be run with the highest **Administrator** privileges to add, modify, or delete the display name (`FriendlyName`) value of the GPU. 
 
+<div align="center">
+<h1 style="text-align: center; width: 100%; display: block;">📊 Before and After Spoofing Comparison</h1>
+<table border="0" width="100%">
+<tr>
+
+<!-- LEFT COLUMN -->
+<td width="50%" align="center" valign="top">
+<h3>🖥️ Original GPU Name</h3>
+<img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14"  width="100%" alt="Original GPU">
+<p><i>Windows Default.</i></p>
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="50%" align="center" valign="top">
+<h3>🔥 Spoofed GPU Name</h3>
+<img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" alt="Spoofed GPU">
+<p><i>After Modification.</i></p>
+</td>
+
+</tr>
+</table>
+
+> **Note:** This tool only changes the surface display string (`FriendlyName`) within the system. It does not alter actual performance and cannot bypass deep inspection software like GPU-Z.
+
+
 ---
 
 ## 🇻🇳 Tiếng Việt
@@ -80,28 +105,28 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 ---
 
 <div align="center">
-<h1 style="text-align: center; width: 100%; display: block;">📊 Before and After Spoofing Comparison</h1>
+<h1 style="text-align: center; width: 100%; display: block;">📊 So sánh hiển thị Trước và Sau khi Fake</h1>
 <table border="0" width="100%">
 <tr>
 
-<!-- LEFT COLUMN -->
+<!-- CỘT BÊN TRÁI -->
 <td width="50%" align="center" valign="top">
-<h3>🖥️ Original GPU Name</h3>
-<img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14"  width="100%" alt="Original GPU">
-<p><i>Windows Default.</i></p>
+<h3>🖥️ Tên ban đầu của GPU</h3>
+<img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" width="100%" alt="Fake GPU">
+<p><i>Mặc định của Windows.</i></p>
 </td>
 
-<!-- RIGHT COLUMN -->
+<!-- CỘT BÊN PHẢI -->
 <td width="50%" align="center" valign="top">
-<h3>🔥 Spoofed GPU Name</h3>
-<img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" alt="Spoofed GPU">
-<p><i>After Modification.</i></p>
+<h3>🔥 Tên sau khi fake</h3>
+<img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" width="100%" alt="Reset GPU">
+<p><i> Sau khi thay đổi.</i></p>
 </td>
 
 </tr>
 </table>
 
-> **Note:** This tool only changes the surface display string (`FriendlyName`) within the system. It does not alter actual performance and cannot bypass deep inspection software like GPU-Z.
+> **Lưu ý:** Công cụ này chỉ thay đổi chuỗi hiển thị bề nổi (`FriendlyName`) trong hệ thống, không làm thay đổi hiệu năng thực tế và không qua mắt được các phần mềm check sâu như GPU-Z.
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Language](https://img.shields.io/badge/Language-Batch%20Script-4EAA25?style=for-the-badge&logo=gnubash)
