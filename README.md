@@ -1,4 +1,4 @@
-## Giới Thiệu
+## 📜 Giới Thiệu
 Một bộ công cụ nhỏ bằng ``Batch Script`` nhằm đơn giản hóa quá trình thay đổi tên hiển thị (Friendly Name) của Card đồ họa (GPU) trực tiếp trong hệ thống Windows.
 Tool này chỉ sửa đổi tên và mang tính giải trí là chính và không hề gây ảnh hưởng bất kì chức năng hay xung đột với với tất cả app khác.
 
@@ -17,7 +17,7 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 4. Chọn mục `[2]`, dán Hardware ID vào và nhập tên GPU mới mà bạn muốn fake.
 5. Nếu muốn quay về tên mặc định, chỉ cần chạy `reset_gpu_name.bat` và nhập lại Hardware ID.
 
-## 🚀 Tính năng
+## 🎯 Tính năng
 - Giao diện CLI có màu sắc trực quan, dễ sử dụng.
 - Tên sau khi đổi sẽ được lưu cứng vào hệ thống, không bị mất đi khi bạn khởi động lại máy tính (Reboot).
 - `gpu_name.bat`: Thay đổi tên hiển thị của GPU thành bất kỳ tên nào bạn muốn.
