@@ -48,4 +48,3 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![Language](https://img.shields.io/badge/Language-Batch%20Script**-4EAA25?style=for-the-badge&logo=gnubash)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![IDK](https://img.shields.io/badge/just%20the%20message-8A2BE2)
