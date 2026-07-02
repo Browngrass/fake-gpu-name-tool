@@ -23,16 +23,16 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 
 <!-- CỘT BÊN TRÁI -->
 <td width="50%" align="center" valign="top">
-<h3>🚀 Giao diện Fake GPU</h3>
+<h3>🚀 Tên ban đầu</h3>
 <img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" width="100%" alt="Fake GPU">
-<p><i>Đây là giao diện lúc bạn chạy file gpu.bat để đổi tên card đồ họa sang tên mới.</i></p>
+<p><i>Mặc định của GPU</i></p>
 </td>
 
 <!-- CỘT BÊN PHẢI -->
 <td width="50%" align="center" valign="top">
-<h3>🔄 Giao diện Reset GPU</h3>
+<h3>🔄 Tên sau khi fake</h3>
 <img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" width="100%" alt="Reset GPU">
-<p><i>Còn đây là giao diện file reset_gpu.bat giúp bồ khôi phục lại tên gốc ban đầu.</i></p>
+<p><i> Đã fake thành NVIDIA GeForce RTX 6090.</i></p>
 </td>
 
 </tr>
