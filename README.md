@@ -4,20 +4,18 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 
 ## 📖 Hướng dẫn sử dụng
 1. Tải bộ đôi script `gpu_name.bat` và `reset_gpu_name.bat` về máy.
-2.
-3. ```text
+```text
 📂 fake-gpu-name-tool
 ├── 📂 GPU Name Changer
 │   ├── 📄 gpu_name.bat        # Script chính để thay đổi tên GPU
 │   └── 📄 reset_gpu_name.bat  # Script khôi phục tên mặc định
-├── 📄 LICENSE                 # Bản quyền mã nguồn (MIT)
-└── 📄 README.md               # Hướng dẫn sử dụng dự án
+├── 📄 LICENSE
+└── 📄 README.md 
 ```
-
-3. Chạy `gpu_name.bat` với quyền Admin.
-4. Chọn mục `[1]` để xem hướng dẫn lấy **Hardware ID** của GPU.
-5. Chọn mục `[2]`, dán Hardware ID vào và nhập tên GPU mới mà bạn muốn fake.
-6. Nếu muốn quay về tên mặc định, chỉ cần chạy `reset_gpu_name.bat` và nhập lại Hardware ID.
+2. Chạy `gpu_name.bat` với quyền Admin.
+3. Chọn mục `[1]` để xem hướng dẫn lấy **Hardware ID** của GPU.
+4. Chọn mục `[2]`, dán Hardware ID vào và nhập tên GPU mới mà bạn muốn fake.
+5. Nếu muốn quay về tên mặc định, chỉ cần chạy `reset_gpu_name.bat` và nhập lại Hardware ID.
 
 ## 🚀 Tính năng
 - Giao diện CLI có màu sắc trực quan, dễ sử dụng.
