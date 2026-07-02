@@ -14,7 +14,7 @@ Một bộ công cụ nhỏ bằng Batch Script giúp thay đổi tên hiển th
 - `reset_gpu_name.bat`: Xóa bỏ tên fake, khôi phục lại tên gốc của GPU từ nhà sản xuất.
 
 > [!IMPORTANT]
-> **⚠️TẠI SAO TOOL YÊU CẦU QUYỀN ADMINISTRATOR?⚠️** 
+> <div align="center"> **⚠️TẠI SAO TOOL YÊU CẦU QUYỀN ADMINISTRATOR?⚠️** 
 >
 > Windows quản lý thông tin phần cứng hiển thị bên trong một phân vùng bảo mật của Registry gọi là đường dẫn hệ thống `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum`. 
 > 
