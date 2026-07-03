@@ -7,18 +7,18 @@ Welcome! If you are here, it means you want to customize other than GPU like nam
 ---
 
 ## Method 1: Hardware Device Query
-
+Must use PowerShell (Terminal):
 ```
 Get-PnpDevice -Class "[Class_Name]" | Select FriendlyName, InstanceId
 ```
 
-Replace `Display` in the command with one of these classes to view or modify that specific hardware:
-
-| Change `[Class_Name]` to | What it shows / Controls (Linh kiện hiển thị) |
+Replace `[Class_Name]` in the command with one of these classes to view or modify that specific hardware:
+I'm not sure all of them work properly so try yourself.
+| Change `[Class_Name]` to | What it shows / Controls |
 | :--- | :--- |
 | **`Display`** | Graphics Card / GPU 
 | **`Monitor`** | Connected Monitors 
-| **`Processor`** | CPU 
+| **`Processor`** | CPU
 | **`DiskDrive`** | Hard Drives / SSD / HDD 
 | **`AudioEndpoint`** | Speakers / Headphones 
 | **`Camera`** | Webcams / Integrated Cameras 
@@ -27,6 +27,10 @@ Replace `Display` in the command with one of these classes to view or modify tha
 | **`Mouse`** | Mice and Pointing Devices 
 | **`Keyboard`** | Keyboards
 
+### NOTE: Use this command if you want to see all of the `Class Name` for replacement.
+```
+Get-PnpDevice | Select-Object -ExpandProperty Class | Sort-Object -Unique
+```
 
 ## Method 2: Device Manager (GUI Alternative)
 
