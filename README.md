@@ -15,25 +15,27 @@ A lightweight toolkit written in `Batch Script` designed to simplify the process
 This tool is purely for entertainment purposes to modify the display name; it does not affect any system functionalities or cause conflicts with other applications.
 
 ### 📖 User Guide
-1. Download the script duo `gpu_name.bat` and `reset_gpu_name.bat` from the `GPU Name Changer` folder or navigate to `RELEASES` to get the files.
+1. Download the script duo `gpu_name_EN.bat` and `reset_gpu_name_EN.bat` from the `GPU Name Changer` folder or navigate to `RELEASES` to get the files.
 ```text
 📂 fake-gpu-name-tool
 ├── 📂 GPU Name Changer
-│   ├── 📄 gpu_name.bat        # Main script to change the GPU name
-│   └── 📄 reset_gpu_name.bat  # Script to restore the default name
+│   ├── 📄 gpu_name_EN.bat        # Main script to change the GPU name (English)
+│   └── 📄 reset_gpu_name_EN.bat  # Script to restore the default name (English)
+│   ├── 📄 gpu_name_VI.bat        # Main script to change the GPU name (Vietnamese)
+│   └── 📄 reset_gpu_name_VI.bat  # Script to restore the default name (Vietnamese)
 ├── 📄 LICENSE
 └── 📄 README.md 
 ```
-2. Run `gpu_name.bat` with Administrator privileges.
+2. Run `gpu_name_EN.bat` with Administrator privileges.
 3. Select option `[1]` to view instructions on how to get the GPU's **Hardware ID**.
 4. Select option `[2]`, paste the Hardware ID, and enter the new spoofed GPU name you desire.
-5. If you want to revert to the default name, simply run `reset_gpu_name.bat` and re-enter the Hardware ID.
+5. If you want to revert to the default name, simply run `reset_gpu_name_EN.bat` and re-enter the Hardware ID.
 
 ### 🎯 Features
 - Colorful and intuitive CLI interface that is easy to use.
 - The modified name is permanently saved to the system and will not be lost after restarting your computer.
-- `gpu_name.bat`: Changes the GPU display name to any name you want.
-- `reset_gpu_name.bat`: Removes the spoofed name and restores the original manufacturer GPU name.
+- `gpu_name_EN.bat`: Changes the GPU display name to any name you want.
+- `reset_gpu_name_EN.bat`: Removes the spoofed name and restores the original manufacturer GPU name.
 
 > [!IMPORTANT]
 > **⚠️WHY DOES THIS TOOL REQUIRE ADMINISTRATOR PRIVILEGES?⚠️** 
@@ -76,25 +78,27 @@ Một bộ công cụ nhỏ bằng `Batch Script` nhằm đơn giản hóa quá 
 Tool này chỉ sửa đổi tên và mang tính giải trí là chính và không hề gây ảnh hưởng bất kì chức năng hay xung đột với với tất cả app khác.
 
 ### 📖 Hướng dẫn sử dụng
-1. Tải bộ đôi script `gpu_name.bat` và `reset_gpu_name.bat` trong thư mục `GPU Name Changer` hoặc vô `RELEASES` để lấy file về máy.
+1. Tải bộ đôi script `gpu_name_VI.bat` và `reset_gpu_name_VI.bat` trong thư mục `GPU Name Changer` hoặc vô `RELEASES` để lấy file về máy.
 ```text
 📂 fake-gpu-name-tool
 ├── 📂 GPU Name Changer
-│   ├── 📄 gpu_name.bat        # Script chính để thay đổi tên GPU
-│   └── 📄 reset_gpu_name.bat  # Script khôi phục tên mặc định
+│   ├── 📄 gpu_name_EN.bat        # Script chính để thay đổi tên GPU (Tiếng Anh)
+│   └── 📄 reset_gpu_name_EN.bat  # Script khôi phục tên mặc định (Tiếng Anh)
+│   ├── 📄 gpu_name_VI.bat        # Script chính để thay đổi tên GPU (Tiếng Việt)
+│   └── 📄 reset_gpu_name_VI.bat  # Script khôi phục tên mặc định (Tiếng Việt)
 ├── 📄 LICENSE
 └── 📄 README.md 
 ```
-2. Chạy `gpu_name.bat` với quyền Admin.
+2. Chạy `gpu_name_VI.bat` với quyền Admin.
 3. Chọn mục `[1]` để xem hướng dẫn lấy **Hardware ID** của GPU.
 4. Chọn mục `[2]`, dán Hardware ID vào và nhập tên GPU mới mà bạn muốn fake.
-5. Nếu muốn quay về tên mặc định, chỉ cần chạy `reset_gpu_name.bat` và nhập lại Hardware ID.
+5. Nếu muốn quay về tên mặc định, chỉ cần chạy `reset_gpu_name_VI.bat` và nhập lại Hardware ID.
 
 ### 🎯 Tính năng
 - Giao diện CLI có màu sắc trực quan, dễ sử dụng.
 - Tên sau khi đổi sẽ được lưu cứng vào hệ thống, không bị mất đi khi bạn khởi động lại máy tính.
-- `gpu_name.bat`: Thay đổi tên hiển thị của GPU thành bất kỳ tên nào bạn muốn.
-- `reset_gpu_name.bat`: Xóa bỏ tên fake, khôi phục lại tên gốc của GPU từ nhà sản xuất.
+- `gpu_name_VI.bat`: Thay đổi tên hiển thị của GPU thành bất kỳ tên nào bạn muốn.
+- `reset_gpu_name_VI.bat`: Xóa bỏ tên fake, khôi phục lại tên gốc của GPU từ nhà sản xuất.
 
 > [!IMPORTANT]
 > **⚠️TẠI SAO TOOL YÊU CẦU QUYỀN ADMINISTRATOR?⚠️** 
