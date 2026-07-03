@@ -9,7 +9,6 @@
 
 ## 🇺🇸 English
 
-
 ### 📜 Introduction
 A lightweight toolkit written in `Batch Script` designed to simplify the process of changing the display name (Friendly Name) of your Graphics Processing Unit (GPU) directly within the Windows system.
 This tool is purely for entertainment purposes to modify the display name; it does not affect any system functionalities or cause conflicts with other applications.
@@ -44,10 +43,14 @@ This tool is purely for entertainment purposes to modify the display name; it do
 > 
 > According to Microsoft's security mechanisms, a standard user account (User) has absolutely **no permission to edit** this partition to prevent system disruption. Therefore, the script must be run with the highest **Administrator** privileges to add, modify, or delete the display name (`FriendlyName`) value of the GPU. 
 
+> [!WARNING]  
+> If you enter the wrong character but the system still displays "Success", it might be because other drivers have been renamed to that specific name. In this case, simply run the `reset_gpu_name_EN` file and input that name.
 
 <h1 style="text-align: center; width: 100%; display: block;">📊 Before and After Spoofing Comparison</h1>
 <table border="0" width="100%">
 <tr>
+
+---
 
 <!-- LEFT COLUMN -->
 <td width="50%" align="center" valign="top">
@@ -106,6 +109,9 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 > Windows quản lý thông tin phần cứng hiển thị bên trong một phân vùng bảo mật của Registry gọi là đường dẫn hệ thống `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Enum`. 
 > 
 > Theo cơ chế bảo mật của Microsoft, một tài khoản người dùng bình thường (User) hoàn toàn **không có quyền chỉnh sửa** phân vùng này để tránh làm xáo trộn hệ thống. Do đó, script bắt buộc phải chạy với quyền **Administrator** cao nhất thì mới có thể thêm/sửa hoặc xóa giá trị tên hiển thị (`FriendlyName`) của GPU. 
+
+> [!WARNING]  
+> Nếu bạn nhập sai kí tự mà hệ thống báo "thành công" thì có thể là tên các driver khác đã bị thay đổi thành tên đó. Lúc này bạn chỉ cần chạy file `reset_gpu_name_VI` xong nhập tên đó vô là được.
 
 ---
 
