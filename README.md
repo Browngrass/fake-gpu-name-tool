@@ -31,7 +31,7 @@ This tool is purely for entertainment purposes to modify the display name; it do
 
 ### 🎯 Features
 - Colorful and intuitive CLI interface that is easy to use.
-- The modified name is permanently saved to the system and will not be lost after restarting your computer (Reboot).
+- The modified name is permanently saved to the system and will not be lost after restarting your computer.
 - `gpu_name.bat`: Changes the GPU display name to any name you want.
 - `reset_gpu_name.bat`: Removes the spoofed name and restores the original manufacturer GPU name.
 
@@ -50,14 +50,14 @@ This tool is purely for entertainment purposes to modify the display name; it do
 <!-- LEFT COLUMN -->
 <td width="50%" align="center" valign="top">
 <h3>🖥️ Original GPU Name</h3>
-<img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14"  width="100%" alt="Original GPU">
+<img width="408" height="340" alt="image" src="https://github.com/user-attachments/assets/10da425d-6096-4bdb-8450-e9700e96d93f" width="100%" alt="Original GPU">
 <p><i>Windows Default.</i></p>
 </td>
 
 <!-- RIGHT COLUMN -->
 <td width="50%" align="center" valign="top">
 <h3>🔥 Spoofed GPU Name</h3>
-<img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" alt="Spoofed GPU">
+<img width="402" height="337" alt="image" src="https://github.com/user-attachments/assets/a04d1c64-1b9a-4121-b51d-6f08e9dfe238" width="100%" alt="Spoofed GPU">
 <p><i>After Modification.</i></p>
 </td>
 
@@ -92,7 +92,7 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 
 ### 🎯 Tính năng
 - Giao diện CLI có màu sắc trực quan, dễ sử dụng.
-- Tên sau khi đổi sẽ được lưu cứng vào hệ thống, không bị mất đi khi bạn khởi động lại máy tính (Reboot).
+- Tên sau khi đổi sẽ được lưu cứng vào hệ thống, không bị mất đi khi bạn khởi động lại máy tính.
 - `gpu_name.bat`: Thay đổi tên hiển thị của GPU thành bất kỳ tên nào bạn muốn.
 - `reset_gpu_name.bat`: Xóa bỏ tên fake, khôi phục lại tên gốc của GPU từ nhà sản xuất.
 
@@ -112,14 +112,14 @@ Tool này chỉ sửa đổi tên và mang tính giải trí là chính và khô
 <!-- CỘT BÊN TRÁI -->
 <td width="50%" align="center" valign="top">
 <h3>🖥️ Tên ban đầu của GPU</h3>
-<img src="https://github.com/user-attachments/assets/e5a963dd-6080-41ac-b439-40d333731f14" width="100%" alt="Fake GPU">
+<img width="408" height="340" alt="image" src="https://github.com/user-attachments/assets/10da425d-6096-4bdb-8450-e9700e96d93f" width="100%" alt="Fake GPU">
 <p><i>TRƯỚC</i></p>
 </td>
-
+ 
 <!-- CỘT BÊN PHẢI -->
 <td width="50%" align="center" valign="top">
 <h3>🔥 Tên sau khi fake</h3>
-<img width="742" height="669" alt="image" src="https://github.com/user-attachments/assets/12d98f0c-8d58-4fd9-ad95-9b039dc619e3" width="100%" alt="Reset GPU">
+<img width="402" height="337" alt="image" src="https://github.com/user-attachments/assets/e6720a8e-c741-435b-95ac-a5c75e6d3f76" width="100%" alt="Reset GPU">
 <p><i>SAU</i></p>
 </td>
 
